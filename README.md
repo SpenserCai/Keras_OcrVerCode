@@ -1,3 +1,4 @@
+<p>keras安装教程参考：http://keras-cn.readthedocs.io/en/latest/</p>
 <p>假设你已经安装好了<br>
 python 2.7.12/13（包括pip）<br>
 keras 1.2.2（配置好GPU环境）<br>
