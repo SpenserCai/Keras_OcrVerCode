@@ -1,18 +1,18 @@
-¼ÙÉèÄãÒÑ¾­°²×°ºÃÁË
-python 2.7.12/13£¨°üÀ¨pip£©
-keras 1.2.2£¨ÅäÖÃºÃGPU»·¾³£©
-pillow 4.0.0
-numpy 1.12.0+mkl
-theano 0.8.2
-h5py 2.6.0
-captcha 0.2.1
-lxml 3.7.2
-scipy 0.18.1
-PyYAML 3.12
-...´Ë´¦»¶Ó­²¹³ä...
+<p>å‡è®¾ä½ å·²ç»å®‰è£…å¥½äº†</p>
+<p>python 2.7.12/13ï¼ˆåŒ…æ‹¬pipï¼‰</p>
+<p>keras 1.2.2ï¼ˆé…ç½®å¥½GPUçŽ¯å¢ƒï¼‰</p>
+<p>pillow 4.0.0</p>
+<p>numpy 1.12.0+mkl</p>
+<p>theano 0.8.2</p>
+<p>h5py 2.6.0</p>
+<p>captcha 0.2.1</p>
+<p>lxml 3.7.2</p>
+<p>scipy 0.18.1</p>
+<p>PyYAML 3.12</p>
+<p>...æ­¤å¤„æ¬¢è¿Žè¡¥å……...</p>
 
-ÄÇÃ´Äã¿ÉÒÔÍ¨¹ýÔËÐÐ5000VerCodeGet.batÉú³É5000Ñù±¾£¬ËäÈ»ËµÒ»¶¨²»¹»£¬ÖÁÉÙ50000ÒÔÉÏ£¨WindowsÏµÍ³£¬Èç¹ûÄãÊÇlinuxÎÒÏàÐÅÄãÄÜ×Ô¼º¸ã¶¨¡££©
-Ö®ºóÍ¨¹ýpython trainvercode_cnn.py yanzheng_cnn_2d£¬¿ªÊ¼ÑµÁ·¡£
-ÑµÁ·Íê³É´ò¿ªcmdÇÐ»»µ½±¾ÎÄ¼þËùÔÚÄ¿Â¼ÔËÐÐtestocr.bat½øÐÐ²âÊÔ¡£
+<p>é‚£ä¹ˆä½ å¯ä»¥é€šè¿‡è¿è¡Œ5000VerCodeGet.batç”Ÿæˆ5000æ ·æœ¬ï¼Œè™½ç„¶è¯´ä¸€å®šä¸å¤Ÿï¼Œè‡³å°‘50000ä»¥ä¸Šï¼ˆWindowsç³»ç»Ÿï¼Œå¦‚æžœä½ æ˜¯linuxæˆ‘ç›¸ä¿¡ä½ èƒ½è‡ªå·±æžå®šã€‚ï¼‰
+ä¹‹åŽé€šè¿‡python trainvercode_cnn.py yanzheng_cnn_2dï¼Œå¼€å§‹è®­ç»ƒã€‚
+è®­ç»ƒå®Œæˆæ‰“å¼€cmdåˆ‡æ¢åˆ°æœ¬æ–‡ä»¶æ‰€åœ¨ç›®å½•è¿è¡Œtestocr.batè¿›è¡Œæµ‹è¯•ã€‚</p>
 
-¸ü¶àÄÚÈÝÖ®ºó²¹³ä
+<p>æ›´å¤šå†…å®¹ä¹‹åŽè¡¥å……</p>
