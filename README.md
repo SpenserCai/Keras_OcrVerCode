@@ -16,4 +16,6 @@ PyYAML 3.12<br>
 之后通过python trainvercode_cnn.py yanzheng_cnn_2d，开始训练。
 训练完成打开cmd切换到本文件所在目录运行testocr.bat进行测试。</p>
 
+<p>Windows用户如果使用mingw64的话需要将Python27\include\pyconfig.h中的#define hypot _hypot注释掉</p>
+
 <p>更多内容之后补充</p>
